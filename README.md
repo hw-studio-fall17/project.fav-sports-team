@@ -1,6 +1,6 @@
-# Sports Team website
+# Sports Team Website
 
-##### You're going to create a website for you favorite sports team. Once you've chosen your team, make sure to checkout their real website for ideas.
+##### You're going to create a website for your favorite sports team. Once you've chosen your team, make sure to check out their real website for ideas.
 
 
 #### Check out some examples here:
@@ -24,11 +24,11 @@ ______________________________________________________________________________
 * Change WEBSITE NAME to say something better
 * Add a [heading](https://www.w3schools.com/html/html_headings.asp) to your website
 * Add a brief bio of the team using a `<p>` tag
-* Add a pump up video using the [`<iframe>` tag](https://www.w3schools.com/tags/tag_iframe.asp 
-* Add [`<a>` tags](https://www.w3schools.com/tags/tag_a.asp) to the team on twitter, instagram, and facebook
+* Add a pump up video using the [`<iframe>` tag](https://www.w3schools.com/tags/tag_iframe.asp) 
+* Add [`<a>` tags](https://www.w3schools.com/tags/tag_a.asp) to the team on Twitter, Instagram, and Facebook
 * Put an `id` on the `<body>`. See below for an example
   ``` HTML
-  <body id="example-id">
+  <body id="home-body">
     ...
   </body>
   ```
@@ -37,7 +37,7 @@ ______________________________________________________________________________
 ### Schedule Page in `schedule.html`
 * Make a table using the HTML [`<table>` tag](https://www.w3schools.com/html/html_tables.asp) that shows the team's schedule
 * Add a 'tickets' button to each game. Here is a good example look at the GAMEDAY buttons: 
-![tour-dates example](images/example-tour-dates.png). You will need to use the [`<button>` tag](https://www.w3schools.com/tags/tag_button.asp.
+![tour-dates example](images/example-tour-dates.png). You will need to use the [`<button>` tag](https://www.w3schools.com/tags/tag_button.asp)
 
 
 ### Gear Page in `gear.html`
