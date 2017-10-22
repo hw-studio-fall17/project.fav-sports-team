@@ -17,7 +17,7 @@
 * You have a `script.js` that is already linked in all of your HTML files using: `<script type="text/javascript" src="script.js"></script>` in the `<head>` tags
 * There is a navigation bar in `home.html` that has some styles prewritten for you. Click on the links to make sure they are working properly. You will probably want to add more styling as you continue to build your website.
 
-______________________________________________________________________________
+_____________________________________________________________________________
 ## LEVEL ONE
 
 ### Home Page in `home.html`
@@ -43,7 +43,7 @@ ______________________________________________________________________________
 ### Gear Page in `gear.html`
 * Add at least 4 images of team gear for sale
 
-______________________________________________________________________________
+_____________________________________________________________________________
 ## LEVEL TWO
 
 ### Home Page
@@ -69,7 +69,7 @@ ______________________________________________________________________________
   <button><a href="link_goes_here"></a></button>
   ```
 * Add a [`hover` effect](https://www.w3schools.com/cssref/sel_hover.asp) to the buttons on your tour dates table, so that when you hover on the ticket buttons some of the colors change. (or something else changes!)
-______________________________________________________________________________
+_____________________________________________________________________________
 ## LEVEL THREE
 
 ### Home Page
@@ -86,7 +86,7 @@ ______________________________________________________________________________
   * Call the [click() jQuery function](https://api.jquery.com/click/) on your variable. 
   * When the user clicks on the secret spot use the [alert() function](https://www.w3schools.com/jsref/met_win_alert.asp) to create a pop up saying the user has won season tickets
 
-______________________________________________________________________________
+_____________________________________________________________________________
 ## LEVEL FOUR
 
 ### Gear Page
@@ -99,4 +99,4 @@ ______________________________________________________________________________
 ### CREATE!
 * Use your creativity to make your website even more awesome!
 
-______________________________________________________________________________
+_____________________________________________________________________________
