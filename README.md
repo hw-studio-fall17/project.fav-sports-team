@@ -74,7 +74,7 @@ _____________________________________________________________________________
 
 ### Home Page
 * In `script.js` select the nav bar by it's `id` using jQuery and save it in a variable called `navBar`. It will look something like this 
-  ` var exampleSelect = $("#example-id") `
+  ` var exampleSelect = $("#example-id"); `
 * Make your navigation bar slowly fade in when the page loads. Hint: you will need to use the jQuery [fadeIn() function](http://api.jquery.com/fadein/). Google it if you forget how it works.
 * Get rid of the underlines on the link tags in your navigation. Google "how to remove underlines from link tags with CSS"
 
@@ -82,7 +82,7 @@ _____________________________________________________________________________
 * Create a secret spot on the page. When the user clicks on it, they will be alerted that they won season tickets! Follow the steps below:
   * Create a new HTML element to be clicked or decide which old HTML element you would like to use. Add an id to the element so that it is easy to select using jQuery.
   * Select your element in `script.js` using jQuery and save it in a variable.
-    * ``` var exampleVariable = $("#example-id") ```
+    * ``` var exampleVariable = $("#example-id"); ```
   * Call the [click() jQuery function](https://api.jquery.com/click/) on your variable. 
   * When the user clicks on the secret spot use the [alert() function](https://www.w3schools.com/jsref/met_win_alert.asp) to create a pop up saying the user has won season tickets
 
