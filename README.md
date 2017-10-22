@@ -68,7 +68,7 @@ ______________________________________________________________________________
   ``` HTML
   <button><a href="link_goes_here"></a></button>
   ```
-* Add a `hover` effect to the buttons on your tour dates table, so that when you hover on the ticket buttons some of the colors change. (or something else changes!)
+* Add a [`hover` effect](https://www.w3schools.com/cssref/sel_hover.asp) to the buttons on your tour dates table, so that when you hover on the ticket buttons some of the colors change. (or something else changes!)
 ______________________________________________________________________________
 ## LEVEL THREE
 
